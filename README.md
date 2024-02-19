@@ -1,4 +1,4 @@
-## Hey 👋, I'm Hamza!  
+## Hey 👋, I'm Hamza! - Aspiring Full Stack Software Engineer.
   
 
 <a href="https://github.com/Hikhal" target="_blank">
@@ -14,11 +14,7 @@
 ### Glad to see you here!  
 As a full-stack developer at the threshold of my professional journey, I am actively seeking new graduate roles that will allow me to leverage and further develop my skills in creating web applications and working with databases. I am eager to bring my passion for technology and innovation to a team that values creativity and forward-thinking.
 
-My expertise centers around developing sophisticated web applications that deliver exceptional user experiences, supported by robust backend technologies. I excel in designing and managing databases that facilitate efficient data processing and storage, ensuring the applications I work on are both scalable and high-performing. My approach to development is holistic, ensuring that each phase from concept to deployment is executed with precision and attention to detail.
-
   
-  
-
 
 ## Languages and Tools  
 <div align="center">  
